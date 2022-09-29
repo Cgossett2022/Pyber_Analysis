@@ -12,7 +12,7 @@ The ride-share results can be summarized in the following table:
 
 ![Ride-Share Results Table](https://user-images.githubusercontent.com/111243284/192921118-bb8aba65-a38e-48a4-9089-d166704751ae.png)
 
-Based on the analysis, Total Rides, Total Fares, and Total Drivers were all higher for more urbanized cities. This makes sense, because more people are in the cities which means there is a higher demand for ride-share services than in rural areas. It is also worth highlighting that the Average Fare per Ride and Average Fare per Driver was higher in rural areas, possibly due to drivers having to travel a farther distance to pick up riders.
+Based on the analysis, Total Rides, Total Fares, and Total Drivers were all higher for more urbanized areas. This makes sense, because more people are in the cities which means there is a higher demand for ride-share services than in rural areas. It is also worth highlighting that the Average Fare per Ride and Average Fare per Driver was higher in rural areas, possibly due to drivers having to travel a farther distance to pick up riders.
 
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/111243284/192912007-1daf30a3-ffcd-458c-94a1-e5c45f293bdb.png)
