@@ -7,7 +7,7 @@ The purpose of this project was to help Omar perform an analysis on various ride
 
 ## Results
 
-The ride-share results can be summarized in the following table.
+The ride-share results can be summarized in the following table:
 
 
 ![Ride-Share Results Table](https://user-images.githubusercontent.com/111243284/192921118-bb8aba65-a38e-48a4-9089-d166704751ae.png)
