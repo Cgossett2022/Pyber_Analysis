@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this project was to help Omar perform an analysis on various ride-share data for January - August of 2019. Through the use of Pyber and MatplotLib, we were able to compare Total Rides, Total Drivers, and Total Fares by city type. In addition, we determined the average fares per ride and per driver. 
+The purpose of this project was to help Omar perform an analysis on various ride-share data for January - April of 2019. Through the use of Pyber and MatplotLib, we were able to compare Total Rides, Total Drivers, and Total Fares by city type. In addition, we determined the average fares per ride and per driver. 
 
 
 ## Results
