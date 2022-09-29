@@ -7,6 +7,7 @@ The purpose of this project was to help Omar perform an analysis on various ride
 
 ## Results
 
+![PyBer_fare_summary](https://user-images.githubusercontent.com/111243284/192912007-1daf30a3-ffcd-458c-94a1-e5c45f293bdb.png)
 
 
 ## Summary
