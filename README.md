@@ -24,5 +24,5 @@ In conclusion, I have the following recommendations for the CEO at V. Isualize:
 
 1.  Since the majority of rides occur in urban areas, the fares could be raised and this would provide an opportunity to make more money without losing business.
 2.  Hiring more drivers to service rural areas could also boost revenues since the average fare per driver is significantly higher than in urban areas.
-3.  Consider raising prices for suburban areas which could eliminate riders that don't really need a ride and allow drivers to choose between convenient (urban areas) or more profitable (rural areas) opportunities.
+3.  Consider raising prices for suburban areas which could eliminate riders that don't really need a ride and allow drivers to choose between more convenient (urban areas) or more profitable (rural areas) opportunities.
 
